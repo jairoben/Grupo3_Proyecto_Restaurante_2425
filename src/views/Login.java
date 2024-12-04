@@ -196,5 +196,5 @@ public class Login extends BaseFrame {
     private javax.swing.JPanel panel;
     private javax.swing.JPasswordField txtContra;
     private javax.swing.JTextField txtUsuario;
-    // End of variables declaration//GEN-END:variables
+    // Start of variables declaration//GEN-END:variables
 }
